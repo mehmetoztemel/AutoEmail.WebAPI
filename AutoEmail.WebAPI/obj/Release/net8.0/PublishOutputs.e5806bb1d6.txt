@@ -1,0 +1,12 @@
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\AutoEmail.WebAPI.exe
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\AutoEmail.WebAPI.dll
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\AutoEmail.WebAPI.deps.json
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\AutoEmail.WebAPI.runtimeconfig.json
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\AutoEmail.WebAPI.pdb
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio\AutoEmail.WebAPI\AutoEmail.WebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

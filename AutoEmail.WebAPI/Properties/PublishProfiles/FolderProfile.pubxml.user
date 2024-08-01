@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\IIS_Publish\dailymailservice</_PublishTargetUrl>
+    <History>True|2024-07-30T08:36:57.7134555Z;True|2024-07-30T11:36:05.6468218+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
